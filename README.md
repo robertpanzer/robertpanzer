@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Robert (he/him), a software engineer from Germany.
+I am Robert, a software engineer from Germany.
 
 My current professional focus is on
 
@@ -16,6 +16,7 @@ My daily toolset of programming languages contains:
 * TypeScript
 * and also Lua, Scala
 * and I am trying to get into Rust right now
+* and whatever you throw at me
 
 I also love working on Open Source Software and I am the maintainer of [AsciidoctorJ](https://github.com/asciidoctor/asciidoctorj).
 
